@@ -1,0 +1,5 @@
+C:\Users\l\Desktop\IES_ISO14443_Share\bin\Debug\IES_ISO14443_Share.dll
+C:\Users\l\Desktop\IES_ISO14443_Share\bin\Debug\IES_ISO14443_Share.pdb
+C:\Users\l\Desktop\IES_ISO14443_Share\obj\Debug\IES_ISO14443_Share.csprojResolveAssemblyReference.cache
+C:\Users\l\Desktop\IES_ISO14443_Share\obj\Debug\IES_ISO14443_Share.dll
+C:\Users\l\Desktop\IES_ISO14443_Share\obj\Debug\IES_ISO14443_Share.pdb
